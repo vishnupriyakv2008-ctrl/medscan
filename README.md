@@ -1,4 +1,5 @@
 # MedScan AI — Intelligent Medical Report Analyzer
+live link: https://medscan-omega.vercel.app/
 
 A lightweight, responsive, single-page **front-end demo** for exploring medical laboratory reports. The interface uses a clean clinical-light theme with navy text, teal accents, and a dashboard-style layout.
 
